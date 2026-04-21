@@ -11,7 +11,7 @@ public final class InMemoryTaskRepository implements TaskRepository {
 
   @Override
   public Task save(Task task) {
-    tasks.put(task.id(), task);
+    tasks.put(task.id(), task)
     return task;
   }
 
