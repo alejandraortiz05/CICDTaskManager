@@ -59,7 +59,7 @@ This repository includes three approaches to CI/CD with GitHub Actions:
 
 ### Status badges (one workflow per stage)
 
-> Replace `YOUR_GITHUB_USERNAME/CICDTASKMANAGER` with your own GitHub username and repository name.
+> Replace `alejandraortiz05/CICDTASKMANAGER` with your own GitHub username and repository name.
 
 ![Compile](https://github.com/alejandraortiz05/CICDTASKMANAGER/actions/workflows/compile.yml/badge.svg?branch=main)
 ![Test](https://github.com/alejandraortiz05/CICDTASKMANAGER/actions/workflows/test.yml/badge.svg?branch=main)
